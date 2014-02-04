@@ -1,0 +1,7 @@
+{
+    "name": "FindMe",
+
+    "requires": [ "deft@0.9.0" ],
+
+    "id": "d63dd038-1afc-44be-bfcd-9863e2eec5b4"
+}
